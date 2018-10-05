@@ -1,4 +1,8 @@
 # RecipeProj
+ANgular project that allows one to create various recipes and add its ingredients and then store on a database.
+
+Sign Up and Login is used.
+Used firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
